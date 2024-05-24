@@ -1,0 +1,16 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(to right top, #215fb3, #007cc8, #0098d6, #00b2dd, #00cce1, #00cbe7, #00caed, #00c9f2, #00aaf8, #0087f5, #375de1, #7c10b5);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
